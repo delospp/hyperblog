@@ -1,4 +1,3 @@
 Esta es una historia
-Acerca de como aprendí git
-su vida
-su muerte
+
+que esta pasando?
